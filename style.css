@@ -151,7 +151,7 @@ section {
 
 /* hero section ends here  */
 
-/* product section begins here  */
+/* product sec. starts here  */
 .product {
   margin-top: 10rem;
   margin-bottom: 10rem;
@@ -341,17 +341,19 @@ section {
 }
 
 .resources P {
-  font-size: 1.7rem;
+  font-size: 2.7rem;
   margin-bottom: 2rem;
 }
 
 .resources-items {
   display: flex;
-  gap: 3rem;
+  gap: 4rem;
+  justify-content: space-between;
 }
 
 .resources-item img {
   margin-bottom: 1rem;
+  width: 100%;
 }
 
 .resources-item {
@@ -359,52 +361,55 @@ section {
 }
 
 .resources-item h2 {
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 .resources-item span {
   font-weight: 700;
 }
-/* resources section ends here  */
+/* resources ends  */
 
-/* footer section begins here  */
+/* footer */
 .footer {
-  margin-bottom: 2rem;
+  margin-bottom: 2.2rem;
 }
 
 .footer hr {
-  border: 1px solid rgb(232, 230, 230);
+  border: 2px solid rgb(232, 230, 230);
 }
 
 .footer-items {
   display: flex;
   gap: 15rem;
+  justify-content: space-between;
 }
 
 .footer-logo {
   margin-top: 7rem;
 }
-
-.footer-item1 {
-  margin-top: 5rem;
-  margin-bottom: 5rem;
+.footer-logo img {
+  height: 5rem;
+}
+.footer-itm-1 {
+  margin: 5rem 0;
+  
 }
 
-.footer-item1 h4 {
+.footer-itm-1 h4 {
   font-size: 2rem;
   margin-top: 2rem;
 }
 
-.footer-item1 p {
+.footer-itm-1 p {
   margin-top: 2rem;
   font-size: 1.5rem;
 }
 
-.footer-item1 a {
+.footer-itm-1 a {
   color: black;
 }
 
-.footer-item1 a:hover {
+.footer-itm-1 a:hover {
   color: rgb(236, 140, 30);
 }
 
