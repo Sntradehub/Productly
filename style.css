@@ -1220,7 +1220,7 @@ section {
   }
 
   .hero-left {
-    width: 100%;
+    width: 40%;
     padding: 5rem 0rem;
   }
 
@@ -1230,11 +1230,11 @@ section {
   }
 
   .hero-right {
-    width: 100%;
+    width: 60%;
   }
 
   .hero-right img {
-    height: 25rem;
+    height: 20rem;
   }
 
   .hero-left p {
@@ -1242,7 +1242,7 @@ section {
     text-align: center;
   }
 
-  .hero-cta {
+  .hero-btn {
     flex-direction: column;
     gap: 20px;
   }
