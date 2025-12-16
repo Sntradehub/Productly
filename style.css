@@ -48,7 +48,7 @@ section {
 
 .header .nav-links a {
   margin: 0 1rem;
-  font-size: 1.9rem;
+  font-size: 1.2rem;
   font-weight: 400;
   color: black;
   font-weight: 500;
@@ -60,7 +60,7 @@ section {
 
 .btn1 {
   padding: 1.3rem 2.4rem;
-  font-size: 2.0rem;
+  font-size: 1.5rem;
   font-weight: 600;
   color: black;
   border: 1px solid rgb(3, 19, 26);
@@ -70,7 +70,7 @@ section {
 .btn2 {
   background-color: rgb(120, 66, 5);
   padding: 1.3rem 2.4rem;
-  font-size: 2.0rem;
+  font-size: 1.5rem;
   font-weight: 600;
   color: white;
   margin: 0 1.5rem;
@@ -214,7 +214,7 @@ section {
 }
 
 .customer-left {
-  width: 45%;
+  width: 35%;
 }
 
 .left-top h4 {
@@ -222,13 +222,13 @@ section {
 }
 
 .left-top p {
-  font-size: 1.7rem;
+  font-size: 1.2rem;
   line-height: 1.3;
   margin-bottom: 2rem;
 }
 
 .cust-itm h3 {
-  font-size: 2.8rem;
+  font-size: 2.0rem;
   line-height: 1.3;
   margin-bottom: 5px;
 }
