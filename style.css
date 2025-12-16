@@ -649,32 +649,6 @@ section {
     display: none;
   }
 
-  .hamburger {
-    /* display: none; */
-  }
-
-  /* .header .nav-links {
-    margin: 0;
-  }
-
-  .header .nav-links a {
-    margin: 0 1rem;
-    font-size: 1.5rem;
-    font-weight: 400;
-    color: black;
-  }
-
-  .header .nav-links {
-    margin: 0;
-  }
-
-  .header .nav-links a {
-    margin: 0 1rem;
-    font-size: 1.2rem;
-    font-weight: 400;
-    color: black;
-    display: none;
-  } */
 
   .hero-left {
     width: 45%;
