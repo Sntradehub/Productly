@@ -93,16 +93,17 @@ section {
 .h-lef {
   padding: 10rem 0rem;
   width: 50%;
+  margin-right: 5px;
 }
 
 .h-lef h1 {
   margin: 0 60px 0 0;
-  font-size: 9.0rem;
+  font-size: 5.0rem;
   line-height: 1.5
 }
 
 .h-lef p {
-  font-size: 2.9rem;
+  font-size: 2.5rem;
   line-height: 1.5;
   margin: 90px 0;
 }
@@ -146,7 +147,7 @@ section {
 }
 
 .hero-right img {
-  height: 60rem;
+  height: 32rem;
 }
 
 /* hero section ends here  */
